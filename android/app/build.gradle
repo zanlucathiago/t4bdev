@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.iobusapp"
+        applicationId "com.iobusapp.dev"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
